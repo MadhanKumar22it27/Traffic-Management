@@ -108,7 +108,7 @@ def dehaze(image_path):
 
 # Step 6: Displaying Results
 if __name__ == "__main__":
-    image_path = 'E:/technical/Projects/Dehazing/traffic_image.webp'  # Path to your traffic image
+    image_path = 'E:/technical/Projects/Traffic Management/Dehazing/traffic_image.webp'  # Path to your traffic image
     dehazed_image = dehaze(image_path)
     
     if dehazed_image is not None:
