@@ -1,0 +1,5 @@
+train: E:/technical/Projects/Traffic Management/Emergency-vehicles/YOLO/train/images
+val:   E:/technical/Projects/Traffic Management/Emergency-vehicles/YOLO/test/images
+
+nc: 2
+names: ["ambulance", "fire_truck"]
